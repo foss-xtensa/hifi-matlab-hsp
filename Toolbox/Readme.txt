@@ -2,4 +2,4 @@ Toolbox created by Cadence to be used with MATLAB and Simulink.
 
 The toolbox contains Cadence HiFi Hardware Support Package (HSP) that enables users to generate, optimize, build, run, and verify C code from MATLAB scripts and Simulink blocks on Cadence® Tensilica® HiFi processors. The toolbox can be used for rapid prototyping and production workflows for audio applications. The toolbox is supported on Windows and Linux operating systems. The HSP integrates with MATLAB's Coder (the code generation toolbox) and generates HiFi DSP optimized C code using Code Replacement Library (CRL). CRL replaces C functions with optimized HiFi kernels. Generated code can be compiled and executed in Xtensa Instruction Set Simulator (ISS) through processor-in-the-loop (PIL) simulation within the MATLAB environment
 
-Latest release version : 2.0
+Latest release version : 2.0.1
